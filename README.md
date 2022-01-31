@@ -1,2 +1,2 @@
-# digital-fruit-stand
-Dancing fruits (practicing set Interval, if/else, boundaries, etc.)
+# Digital Fruit Stand
+Dancing fruits 🍍 🍌 🥝 made to practice set Interval, if/else, boundaries, etc.
